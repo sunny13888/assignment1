@@ -1,0 +1,2 @@
+55 0 18 1 * echo 'final testing' | mail -s '510 assignment1' sunying@usc.edu
+
